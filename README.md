@@ -1,3 +1,8 @@
+# Project-Helix Modertation Bot
+This bot is a fork of [TeamBulbbot/bulbbot](https://github.com/TeamBulbbot/bulbbot)
+we aim to tweak the bot to our needs as well as adding our own features
+
+---
 ![Bulbbot Banner](./assets/BannerWide.png)
 
 # Bulbbot
